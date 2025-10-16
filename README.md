@@ -7,15 +7,15 @@
 <h1 align="center">Hi 👋, I'm minkyung</h1>
 <h3 align="center">커피 ☕ + 코드 💻 + 고양이 🐱 로 구성된 개발자입니다</h3>
 
-- 🔭 I’m currently working on [spring project](https://www.assistcard.co.kr)
+- 🔭 I’m recent working on [spring project](https://www.assistcard.co.kr)
 
-- 👯 I’m looking to collaborate on [node project](https://play.google.com/store/apps/details?id=io.mxup.mxup&hl=ko)
+- 👯 node project (https://play.google.com/store/apps/details?id=io.mxup.mxup&hl=ko)
 
-- 🤝 I’m looking for help with [php project](https://apps.apple.com/kr/app/pick-by-owin/id1110255433)
+- 🤝 php project (https://apps.apple.com/kr/app/pick-by-owin/id1110255433)
 
 - 📫 How to reach me **z.chomink@gmail.coom**
   
-- 🌱 I’m currently learning **JPA , kafka , AWS**
+- 🌱 I’m currently learning **JPA ,TDD, kafka , AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
