@@ -1,21 +1,17 @@
 <section>
-  <h3>안녕하세요 👋</h3>
-  <p>저는 <strong>백엔드 개발자</strong>로서 안정적이고 확장 가능한 서비스를 만드는 것을 좋아합니다.
-  주로 <em>PHP, java, </em>을 사용하며, 테스트와 코드 품질에 가치를 둡니다.</p>
-</section>
+  <h3>Hello! 👋</h3>
+</section>section>
+<h1 align="left">I'm minkyung</h1>
+<h3 align="left">커피 ☕ + 코드 💻 + 고양이 🐱 로 구성된 개발자</h3>
 
-<h1 align="center">Hi 👋, I'm minkyung</h1>
-<h3 align="center">커피 ☕ + 코드 💻 + 고양이 🐱 로 구성된 개발자입니다</h3>
+🚗  I’m currently working on something cool 😉
+🌱  I’m currently learning  **JPA ,TDD, kafka , AWS**
 
-- 🔭 I’m recent working on [spring project](https://www.assistcard.co.kr)
-
+- 🔭 java project (https://www.assistcard.co.kr)
 - 👯 node project (https://play.google.com/store/apps/details?id=io.mxup.mxup&hl=ko)
-
 - 🤝 php project (https://apps.apple.com/kr/app/pick-by-owin/id1110255433)
 
 - 📫 How to reach me **z.chomink@gmail.coom**
-  
-- 🌱 I’m currently learning **JPA ,TDD, kafka , AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
