@@ -1,6 +1,6 @@
 <section>
   <h3>Hello! 👋</h3>
-</section>section>
+</section>
 <h1 align="left">I'm minkyung</h1>
 <h3 align="left">커피 ☕ + 코드 💻 + 고양이 🐱 로 구성된 개발자</h3>
 
