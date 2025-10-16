@@ -3,8 +3,7 @@
 <section>
   <h2>안녕하세요 👋</h2>
   <p>저는 <strong>백엔드 개발자</strong>로서 안정적이고 확장 가능한 서비스를 만드는 것을 좋아합니다.
-  주로 <em>Python, Django, PostgreSQL</em>을 사용하며, 테스트와 코드 품질에 가치를 둡니다.</p>
-  <p>오픈소스 기여와 기술 블로그 운영을 통해 지식을 공유하고 있습니다.</p>
+  주로 <em>PHP, java, </em>을 사용하며, 테스트와 코드 품질에 가치를 둡니다.</p>
 </section>
 
 <h1 align="center">Hi 👋, I'm minkyung</h1>
