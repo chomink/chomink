@@ -12,9 +12,8 @@
 👯 node project (https://play.google.com/store/apps/details?id=io.mxup.mxup&hl=ko)</br>
 🤝 php project (https://apps.apple.com/kr/app/pick-by-owin/id1110255433)</br>
 
-- 📫 How to reach me **z.chomink@gmail.coom**
+- 📫 How to reach me **z.chomink@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
