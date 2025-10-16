@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [spring project](https://www.assistcard.co.kr)
 
-- 🌱 I’m currently learning **JPA , kafka , AWS**
-
 - 👯 I’m looking to collaborate on [node project](https://play.google.com/store/apps/details?id=io.mxup.mxup&hl=ko)
 
 - 🤝 I’m looking for help with [php project](https://apps.apple.com/kr/app/pick-by-owin/id1110255433)
 
 - 📫 How to reach me **z.chomink@gmail.coom**
+  
+- 🌱 I’m currently learning **JPA , kafka , AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
